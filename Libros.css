@@ -1,0 +1,14 @@
+h2{
+  color:black;
+}
+p1,p2{
+    color:blue;
+    display: list-item;
+    list-style: disc inside;
+    margin-left: 5px;
+  }
+
+span{
+    background-color: rgb(255, 251, 0);
+    font-weight: 900;
+}
